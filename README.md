@@ -2,13 +2,6 @@
 
 My name is Matteo Italia (aka Guanciottaman) and I'm a young developer who's into **Python** a lot
 
-I like making Discord bots in my free time,
-like this one right here👇 (Upvote please xD)
-
-<a href="https://top.gg/bot/1135844187368071222">
-  <img src="https://top.gg/api/widget/1135844187368071222.svg">
-</a>
-
 \
 My skills:\
 \
